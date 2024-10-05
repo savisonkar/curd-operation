@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 18,
+    "editor.tabSize": 5,
+    "editor.cursorStyle": "line-thin",
+    "editor.wordWrap": "on",
+    "editor.accessibilityPageSize": 15,
+    "application.experimental.rendererProfiling": true,
+    "css.format.enable": true,
+    "css.format.maxPreserveNewLines": null,
+    "editor.guides.bracketPairsHorizontal": "active",
+    "editor.lineNumbers": "on",
+    "editor.maxTokenizationLineLength": 20000,
+    "editor.peekWidgetDefaultFocus": "editor"
+}
